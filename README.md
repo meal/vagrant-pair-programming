@@ -1,8 +1,8 @@
-=== Vagrant pair programming
+# Vagrant pair programming
 
-== Requiremenets
+## Requiremenets
 
-* vagrant (thank you, Cpt. Obvious)
+ * vagrant (thank you, Cpt. Obvious)
 
 
 This setup uses tmux and vim
