@@ -1,6 +1,6 @@
 # Vagrant pair programming
 
-## Requiremenets
+## Requirements
 
  * vagrant (thank you, Cpt. Obvious)
 
